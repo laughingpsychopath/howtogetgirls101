@@ -1,5 +1,5 @@
 -- was gonna obfuscate with luraph but im planning on making it open source when im done with it
-wait(20) -- for auto exec
+wait(60) -- for auto exec
 print("Ip logged just now.")
 --Boronide™ Free Obfuscation, v0.3.3
 
